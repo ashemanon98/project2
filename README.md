@@ -1,1 +1,5 @@
 # project2
+Name Amanuel Negash
+the project is to show that some advanced css, jquery skill has been devloped. 
+the project offers  abilit to search the giphy api. thre is an input box type of text and that caputures the data to be searcehd and querie the api for the data when the go button is pressed.
+this project can be converted to many kinds of apps. one of which is it can become a social media app. that mean some funcitonalities such as network programing and is required to ingrate in the code. the other improvement that can be made is to use the app to develop some design software and presentation software such as power point there shoould be a way to integrate the information in these kind of apps. the third improvement to make is to design its own database and tehn that way pepel can not only search a giphy but also save to the giphy they designed.  
