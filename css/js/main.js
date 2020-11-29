@@ -7,6 +7,7 @@ $(function(){
         type:'GET',
         url: giphy + searchTerm,
         success:function(images){
+            $("#search-count").text("Showing " + images.data.length + " number of results.");
             $.each(images.data,function(i,image){
                 //console.log(image.images.downsized.url+" " + image.title);
 
